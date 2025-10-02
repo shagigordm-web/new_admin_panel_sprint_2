@@ -3,5 +3,3 @@ flake8==6.1.0  # Линтер
 python-dotenv==1.1.1
 django-split-settings
 split_settings
-gunicorn
-psycopg2-binary
